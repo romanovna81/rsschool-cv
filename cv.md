@@ -5,12 +5,12 @@
 
 
 *******
-   ## Contacts
+## Contacts
 
-* 
-     #### Location: _Jalalabad,Kyrgyzstan_
-*    ####  Phone: _[+996777597959](Phone)_
-*    #### Email: _[urmat.sultanova.kk@gmail.com](Email)_
+
+*  #### Location: _Jalalabad,Kyrgyzstan_
+*  ####  Phone: _[+996777597959](Phone)_
+*  #### Email: _[urmat.sultanova.kk@gmail.com](Email)_
  *******
       
  ## Skills
@@ -33,16 +33,20 @@
   alert( `hello ${name}` )
   ```
 
-  ## Education
+## Education
    *   **Jalalabat State University**    
        +  _Business and Pedagogical Faculty_
    *   **Training center "Speсialist" at Moscow State Technical University**  
-        +  _1C:enterprise management_
+       + _1C:enterprise management_
  ****
-  ## Languages
+  
+  
+## Languages
 
 __English__ - Pre - Intermediate (CEFR A2+) 
+
 __Russian__ - Fluent
+
 __Kyrgyz__ - Native
 
 
