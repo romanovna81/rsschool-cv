@@ -1,0 +1,12 @@
+body {
+    box-sizing: border-box;
+    color: maroon;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
