@@ -11,13 +11,16 @@
 *  #### Location: _Jalalabad,Kyrgyzstan_
 *  ####  Phone: _[+996777597959](Phone)_
 *  #### Email: _[urmat.sultanova.kk@gmail.com](Email)_
+ 
+ 
  *******
       
- ## Skills
- * __Html__
+## Skills
+ * __HTML__
  * __CSS__
  * __Figma__
  * __JS__
+
 *********
 
 ## Code Example
@@ -34,6 +37,7 @@
   ```
 
 ## Education
+
    *   **Jalalabat State University**    
        +  _Business and Pedagogical Faculty_
    *   **Training center "Speсialist" at Moscow State Technical University**  
